@@ -11,7 +11,17 @@ body {
     color: #fff;
     line-height: 1.6;
 }
-
+.btn{
+    background-color: rgb(160, 52, 52);
+    display: inline-block;
+    padding: 5px 5px;
+    font-size: 1em;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
 /* Header */
 .header {
     background-color: #444;
